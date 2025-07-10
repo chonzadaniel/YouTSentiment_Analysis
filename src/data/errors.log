@@ -1,0 +1,19 @@
+2025-06-26 12:46:51,370 - data_ingestion - ERROR - YAML error: while scanning for the next token
+found character '\t' that cannot start any token
+  in "/Users/emmanueldanielchonza/Documents/YouTSentiment_Analysis/src/data/../../params.yaml", line 2, column 1
+2025-06-26 12:46:51,370 - data_ingestion - ERROR - Failed to complete the data ingestion process: while scanning for the next token
+found character '\t' that cannot start any token
+  in "/Users/emmanueldanielchonza/Documents/YouTSentiment_Analysis/src/data/../../params.yaml", line 2, column 1
+2025-06-26 12:58:40,793 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 14:27:44,887 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 14:28:50,102 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 14:29:47,363 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 14:29:56,053 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 14:44:23,500 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'SSLContext' object is not callable
+2025-06-26 15:11:00,483 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 15:15:07,291 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 15:33:22,873 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 15:38:45,893 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 15:42:12,977 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 17:17:08,041 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+2025-06-26 17:18:48,916 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>

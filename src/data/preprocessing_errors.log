@@ -1,0 +1,10 @@
+2025-06-26 21:05:24,228 - data_preprocessing - ERROR - Failed to complete the data preprocessing process: [Errno 2] No such file or directory: './data/raw/train.csv'
+2025-06-26 21:08:24,888 - data_preprocessing - ERROR - Failed to complete the data preprocessing process: [Errno 2] No such file or directory: './data/raw/train.csv'
+2025-06-26 21:13:32,040 - data_preprocessing - ERROR - Failed to complete the data preprocessing process: [Errno 2] No such file or directory: './data/raw/train.csv'
+2025-06-26 21:17:50,433 - data_preprocessing - ERROR - SymSpell dictionary not found at data/dictionaries/frequency_dictionary_en_82_765.txt
+2025-06-26 22:03:55,377 - data_preprocessing - ERROR - SymSpell dictionary not found at data/dictionaries/frequency_dictionary_en_82_765.txt
+2025-06-26 22:17:53,227 - data_preprocessing - ERROR - SymSpell dictionary not found at data/dictionaries/frequency_dictionary_en_82_765.txt
+2025-06-26 22:36:11,620 - data_preprocessing - ERROR - SymSpell dictionary not found at data/dictionaries/frequency_dictionary_en_82_765.txt
+2025-06-26 22:39:55,805 - data_preprocessing - ERROR - Failed to complete the data preprocessing process: [Errno 2] No such file or directory: './data/raw/train.csv'
+2025-06-26 22:43:06,430 - data_preprocessing - ERROR - Failed to complete the data preprocessing process: [Errno 2] No such file or directory: './data/raw/train.csv'
+2025-06-26 22:59:37,654 - data_preprocessing - ERROR - Failed to complete the data preprocessing process: [Errno 2] No such file or directory: './data/raw/train.csv'
